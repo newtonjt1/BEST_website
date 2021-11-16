@@ -1,0 +1,239 @@
+@charset "utf-8";
+body {
+	text-align:center;
+	font-family:"Times New Roman";
+	background-color:#FF6700;
+}
+header {
+	font-variant:;
+	font-family:"Times New Roman";
+	font-style:;
+	font-size: 45px;
+	background-color:#EED202;
+	text-align:center;
+}
+#footer {
+	position:absolute;
+	bottom:5px;
+	text-align:center;
+	font-size:15px;
+	width:100%;
+	height:15px;
+}
+/*style for links*/
+#BESTlinks {
+	text-align:left;
+	font-size:30px;
+}
+a {
+	color:black;
+}
+a:hover {
+	color:white;
+}
+p {
+	font-size:20px;
+	margin-left:45px;
+	margin-right:45px;
+}
+/*end of link style*/
+img {
+	display: block;
+}
+#banner {
+	background-color:#EED202;
+}
+#logo_2 {
+	left:25px;
+	position:absolute;
+}
+#teampic {
+	right:65px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+	position:absolute;
+}
+#robot_image {
+	left:65px;
+	top:230px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+	position:absolute;
+}
+#robot_description {
+	right:50px;
+	position:absolute;
+	top:245px;
+	left:580px;
+}
+#demo_daze {
+	position:absolute;
+	top:9px;
+	right:15px;
+}
+#lion {
+	position:absolute;
+	top:9px;
+	left:15px;
+}
+#BESTlogo1 {
+	right:px;
+}
+/*style for sponsor signs*/
+#BEST_sponsors {
+	right:0px;
+	left:490px;
+	top:px;
+	bottom:575px;
+	position:relative;
+}
+#NWAL_sponsors {
+	left:75px;
+	bottom:175px;
+	top:px;
+	position:relative;
+}
+#team_sponsors {
+	left:287px;
+	right:312px;
+	position:relative;
+	text-align:center;
+}
+#thankyou {
+	bottom:750px;
+	left:287px;
+	right:312px;
+	position:relative;
+	text-align:center;
+}
+#sponsors {
+	position:absolute;
+	text-align:center;
+	height:860px;
+	width:860px;
+	margin-top:20px;
+	margin-left:165px;
+}
+/*end of sponsor style*/
+/*style for portraits*/
+#Hattin {
+	position:absolute;
+	left:265px;
+	top:310px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#SiddaLea {
+	position:absolute;
+	right:265px;
+	top:310px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#Tyler {
+	position:absolute;
+	left:265px;
+	top:590px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#Emma {
+	position:absolute;
+	right:265px;
+	top:590px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#Branson {
+	position:absolute;
+	left:265px;
+	top:870px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#Macey {
+	position:absolute;
+	right:265px;
+	top:870px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#Malachi {
+	position:absolute;
+	left:265px;
+	top:1150px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+#AnnaMae {
+	position:absolute;
+	right:265px;
+	top:1150px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+}
+/*end of portrait style*/
+/*style for names*/
+#Name_HB {
+	position:absolute;
+	left:0px;
+	top:350px;
+	text-align:center;
+}
+#Name_SLB {
+	position:absolute;
+	right:0px;
+	top:350px;
+	text-align:center;
+	margin:0;
+}
+#Name_TW {
+	position:absolute;
+	left:0px;
+	top:620px;
+	text-align:center;
+}
+#Name_EJ {
+	position:absolute;
+	right:0px;
+	top:620px;
+	text-align:center;
+}
+#Name_BS {
+	position:absolute;
+	left:0px;
+	top:920px;
+	text-align:center;
+}
+#Name_MN2 {
+	position:absolute;
+	right:0px;
+	top:920px;
+	text-align:center;
+}
+#Name_MN {
+	position:absolute;
+	left:0px;
+	top:1190px;
+	text-align:center;
+}
+#Name_AMJ {
+	position:absolute;
+	right:0px;
+	top:1190px;
+	text-align:center;
+}
+.title {
+	font-style:italic;
+}
+/*end of name style*/

@@ -1,0 +1,36 @@
+@charset "utf-8";
+/*navigation style for BEST website*/
+/*overall nav styles*/
+nav {
+   background-color:#EED202;
+   text-align:center;
+   margin:0px;
+   padding-top:8px;
+   width:100%;
+}
+/* nav list style*/
+nav li {
+   width:150px;
+   margin:0;
+   padding:0 0 8px 0; 
+   display:inline-block;
+   position:relative;
+   list-style:none;
+   z-index:10;
+   font-family:"Times New Roman";
+   margin-bottom:2px;
+}
+nav ul {
+	padding-inline-start:unset;
+}
+nav>ul>li>a {
+   font-family:"Times New Roman";
+   text-shadow:; 
+   color:#000000;
+}
+nav li:hover {
+	background-color:#FF6700;
+	border-radius:8px 8px 8px 8px;
+	color:white;
+}
+
